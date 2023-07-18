@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+/personal/data/creditcard.csv
 ./personal/data/creditcard.csv
 ./projects/data/creditcard.csv
 
